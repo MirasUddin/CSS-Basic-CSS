@@ -1,0 +1,6 @@
+li{
+    color: rgb(222, 165, 20);
+}
+ul li{
+    display: inline;
+}

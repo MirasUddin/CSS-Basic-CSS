@@ -1,0 +1,35 @@
+.headder{
+    height: 200px;
+    /* background-image: url('HOME.jpg'); */
+    /* background-image: url('../HOME.jpg'); */
+    background-image: url('../images/HOME.jpg');
+    color: red;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center right;
+    background-blend-mode: darken;
+}
+
+h3{
+    color: blueviolet;
+    text-decoration: underline wavy 2px green;
+}
+p{
+    color: blue;
+}
+.page-title{
+    font-weight: 700px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+    border: 1px solid purple;
+    height: 200px;
+    width: 100px;
+    display: none;
+}
+.blog{
+    background-color: peru;
+    box-sizing: initial;
+    
+}
+
